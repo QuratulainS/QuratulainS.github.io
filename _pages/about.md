@@ -14,17 +14,17 @@ dialogue-based explanations for SAT solvers. In my PhD, I investigated the role 
 
 My research interests are multi-disciplinary: I am interested in investigating error and uncertainty in expert judgement aggregation in multi-agent systems as well as active learning for multi-agent ensembles. Another area of interest is the transparency and trustworthy aspect of socio-techinical systems based on multi-agents, especially in terms of explainability.
 
-#Reasearch Topics
+## Reasearch Topics
 - Active machine learning for single and ensemble algorithms.
 - Error analysis for data quality issues.
 - Error analysis and aggregation in expert judgments.
 
-#Grants and Fellowships
+## Grants and Fellowships
 - University of St Andrews School of Computer Science PhD Scholarhsip: 08/2022 - 01/2026.
 - Marie Skłodowska-Curie ITN-ETN Early Stage Researcher Grant: 09/2020 - 08/2022.
 - Erasmus Mundus MSc. Scholarship Award: 09/2016 - 08/2018.
 
-#Academic Distinctions
+## Academic Distinctions
 - University of St Andrews’s Best Dependable Software Systems Project Award: 07/2018, DESEM Summer School, Ireland.
 - 6th position in a class of 44 in bachelor’s degree.
 
