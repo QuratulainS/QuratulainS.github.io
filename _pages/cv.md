@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 - Ph.D in Computer Science (Active Learning), University of St Andrews, 06/2026 (expected).
 - Double M.Sc. in Dependable Software Systems, University of St Andrews and Maynooth University, 2016-2018.
