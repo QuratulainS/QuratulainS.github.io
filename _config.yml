@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Quratulain Shaheen"
+title                    : "Qurat-ul-ain Shaheen"
 title_separator          : "-"
-name                     : &name "Quratulain Shaheen"
-description              : &description "Quratulain's Academic Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Qurat-ul-ain Shaheen"
+description              : &description "Qurat-ul-ain's Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://QuratulainS.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ repository               : "QuratulainS/QuratulainS.github.io"
 author:
   # Biographic information
   #avatar           : "profile.png"
-  name             : "Quratulain Shaheen"
+  name             : "Qurat-ul-ain Shaheen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
   #employer         : "Red Brick University"
   uri              : # URL
@@ -83,13 +83,13 @@ author:
   #zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+#publication_category:
   #books:
     #title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  #manuscripts:
+    #title: 'Journal Articles'    
+  #conferences:
+    #title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
