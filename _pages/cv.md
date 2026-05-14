@@ -7,13 +7,18 @@ redirect_from:
   - /resume
 ---
 
+## Technical Skills
+- R language
+- Data analysis
+- Experiment design
+- Software devleopment
+  
 ## Education
 - Ph.D in Computer Science (Active Learning), University of St Andrews, 06/2026 (expected).
 - Double M.Sc. in Dependable Software Systems, University of St Andrews and Maynooth University, 2016-2018.
 - BEng. in Software Engineering, National University of Sciences and Technology, 2004-2008.
 
 ## Research Experience
-
 - *Early Stage Researcher*, Artificial Intelligence Research Centre (IIIA) Spanish National Research Council (CSIC), Barcelona: 09/2020 – 08/2022.
   - Investigated eXplainable Artificial Intelligence (XAI) methods and argumentative technologies for XAI. Published aworkshop paper.
   - Investigated decision tree algorithms and the Sushi Preference Dataset 173. Implemented a decision tree classifier for this dataset in Python.
@@ -40,11 +45,4 @@ redirect_from:
 
 - *Software Engineer*, Bentley Systems Pvt. Ltd., Pakistan: 09/2008 – 07/2011
   - AutoPIPE: Created a Windows Presentation Foundation (WPF) based viewer and editor tool for AutoPIPE model database. It was a mixed mode application implemented in FORTRAN, C++, C# and WPF. It presented binary AutoPIPE database file in a WPF DataGrid and used an xml schema to define column headers.
-  - Implemented various AutoPIPE enhancements including integration of AutoPIPE with other Bentley products such as using C++ and FORTRAN, hosting a Windows Forms application in a WPF based application.
-  
-## Technical Skills
-- R language
-- Data analysis
-- Experiment design
-- Software devleopment
-  
+  - Implemented various AutoPIPE enhancements including integration of AutoPIPE with other Bentley products such as using C++ and FORTRAN, hosting a Windows Forms application in a WPF based application. 
