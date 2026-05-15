@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 ---
-Qurat-ul-ain Shaheen, Katarzyna Budzynska,and Carles Sierra. **An Explanation-oriented Inquiry Dialogue Game for Expert Collaborative Eecommendations**. 
+Qurat-ul-ain Shaheen, Katarzyna Budzynska,and Carles Sierra. **An Explanation-oriented Inquiry Dialogue Game for Expert Collaborative Recommendations**. 
 *Argument and Computation*, 15(3), 355–390. (2024, March). IOS Press. DOI: [link](https://doi.org/10.3233/AAC-230010).
 > This work presents a requirement analysis for collaborative dialogues among medical experts and an inquiry dialogue game based on this analysis for incorporating explainability into multiagent system design. The game allows experts with different knowledge bases to collaboratively make recommendations while generating rich traces of the reasoning process through combining explanation-based illocutionary forces in an inquiry dialogue. The dialogue game was implemented as a prototype web-application and evaluated against the specification through a formative user study. The user study confirms that the dialogue game meets the needs for collaboration among medical experts. It also provides insights on the real-life value of dialogue-based communication tools for the medical community.
 
