@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Qurat-ul-ain. I just submitted my doctoral (PhD) thesis as a PhD candidate at the School of Computer Science, University of St Andrews. I am now looking forward to the next exciting transition. 
+Hi! My name is Qurat-ul-ain. I just submitted my doctoral (PhD) thesis as a PhD candidate at the School of Computer Science, University of St Andrews. I am now excited about the transition to the next role. 
 
 In my research journey, I have explored explainability for multi-agent systems in the context of aggregating judgments from domain experts as well as generating 
 dialogue-based explanations for SAT solvers. In my PhD, I investigated the role of error in cognitive science and active machine learning. I developed a meta-analysis framework to leverage error in novel ways for query selection. My PhD project encompassed multi-disciplinary research in machine learning and congitive science.
