@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "PhD Research"
+    url: /phd/ 
+
   #- title: "Talks"
   #  url: /talks/    
 
