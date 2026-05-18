@@ -11,7 +11,7 @@ redirect_from:
 - R language
 - Data analysis
 - Experiment design
-- Software devleopment
+- Software development
   
 ## Education
 - Ph.D in Computer Science (Active Learning), University of St Andrews, 06/2026 (expected).
@@ -38,9 +38,10 @@ redirect_from:
 - *Senior Software Engineer*, Bentley Systems Pvt. Ltd., Pakistan: 03/2012 – 05/2014.
     - Openplant Power PID (OPPID): Implemented enhancement to import/ export an OPPID assembly to a Bentley repository file (DGN). OPPID is a 2D CAD application for Piping Design. The task involved exploring/using Microstation API, Bentley ECFramework to export graphical, relational and business data to a dgn using a workDgn Connection.
     - Implemented ‘Drag’ functionality for a number of 2D components in OPPID. The task involved managing relationships between new and existing components and extensive use of Computer Graphics concepts like Rotation, Translation and Vector mathematics.
-    - AECOSim Building Designer (ABD), OpenPlant Modeler (OPM): Implemented Insert/ Remove/ Drag/Move/Connect functionality for a number of 3D HVAC/Piping components for ABD and OPM. ABD is Bentley CAD software for Building design. OPM is Bentley 3D CAD plant modelling software. The task involved making the EC based HTML schema component definitions work with the graphical data stored in database files, other HTML based EC schemas and/or taken as input from user.
+    - AECOSim Building Designer (ABD), OpenPlant Modeler (OPM): Implemented Insert/ Remove/ Drag/Move/Connect functionality for a number of 3D HVAC/Piping components for ABD and OPM. ABD is Bentley CAD software for Building design. OPM is Bentley 3D CAD plant modelling software. The task involved making the EC based HTML schema component definitions work with the graphical data stored in database files, other HTML based EC schemas and/or taken as input from the user.
     - OPM: Implemented enhancement to export OPM components in the standard PXF format. This format is used for data exchange between various CAE applications within Bentley as well as with rival applications.
 
 - *Software Engineer*, Bentley Systems Pvt. Ltd., Pakistan: 09/2008 – 07/2011
-  - AutoPIPE: Created a Windows Presentation Foundation (WPF) based viewer and editor tool for AutoPIPE model database. It was a mixed mode application implemented in FORTRAN, C++, C# and WPF. It presented binary AutoPIPE database file in a WPF DataGrid and used an xml schema to define column headers.
+  - AutoPIPE: Created a Windows Presentation Foundation (WPF) based viewer and editor tool for AutoPIPE model database. It was a mixed mode application implemented in FORTRAN, C++, C# and WPF. It presented a binary AutoPIPE database file in a WPF DataGrid and used an xml schema to define column headers.
   - Implemented various AutoPIPE enhancements including integration of AutoPIPE with other Bentley products such as using C++ and FORTRAN, hosting a Windows Forms application in a WPF based application. 
+
