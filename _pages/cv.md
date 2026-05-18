@@ -21,9 +21,9 @@ redirect_from:
 ## Research Experience
 - *Early Stage Researcher*, Artificial Intelligence Research Centre (IIIA) Spanish National Research Council (CSIC), Barcelona: 09/2020 – 08/2022.
   - Developed a collaborative protocol for aggregating expert judgements and implemented it as a Javascript web application. Evaluated the protocol through a user study involving medical experts. The results are documented as a journal publication. 
-- Investigated Belief-Desire-Intention multi-agent architecture and implemented a toy problem in Jason platform and Prolog.
-- Implemented Logistic Regression, Decision Tree, and Naive Bayes in Python using the scikit-learn library and explored explainability for these algorithms.
-- Investigated state-of-the-art in multi-agent recommender systems and created a technical report.
+  - Investigated Belief-Desire-Intention multi-agent architecture and implemented a toy problem in Jason platform and Prolog.
+  - Implemented Logistic Regression, Decision Tree, and Naive Bayes in Python using the scikit-learn library and explored explainability for these algorithms.
+  - Investigated state-of-the-art in multi-agent recommender systems and created a technical report.
 
  
 - *Visiting Researcher*, The New Ethos Lab, Faculty of Administration and Social Sciences, Warsaw University of Technology, 06/2021 – 09/2021.
